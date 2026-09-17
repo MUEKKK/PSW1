@@ -1,0 +1,9 @@
+Pemeriksaan             |   Bukti yang dicatat                          |   Hasil
+
+Bahasa dokumen          |   html mempunyai lang=id                      |    Lulus                    
+Judul halaman           |   title tampil pada tab browser               |    Lulus
+Hierarki heading        |   h1, h2, dan h3 berurutan logis              |    Lulus
+Landmark                |   header, nav, main, aside, footer ditemukan  |    Lulus                                       |
+Navigas                 |   Tautan menuju id yang tersedia              |    Lulus
+
+saya menggunakan AI untuk merapikan semua html saya karena saya melihat html saya tidak rapi 
